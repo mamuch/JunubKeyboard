@@ -1,0 +1,46 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Indicates that a word has been added to the dictionary -->
+    <string name="added_word">Saved:\u0020<xliff:g id="word">%s</xliff:g>
+    </string>
+    <string name="revert_added_word_question">Remove\?</string>
+    <string name="removed_word">Removed:\u0020<xliff:g id="word">%s</xliff:g></string>
+
+    <string name="hint_add_to_dictionary">\u2190 Touch again to save</string>
+    <string name="hint_double_tap_to_close">Again to remove suggestions</string>
+    <string name="app_name">Junub Keyboard</string>
+    <string name="simple_ime">Junub Keyboard</string>
+    <string name="subtype_nus_rSD">Junub (SS)</string>
+    <string name="nuer">Nuer Keyboard</string>
+    <string name="welcome_notice">Welcome to Junub Keyboard for android created by DhielSoft.</string>
+    <string name="youtube">Youtube</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="A_chars">āa̱</string>
+    <string name="E_chars">ëē</string>
+    <string name="I_chars">ï</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="hi_thanks_for_donwloading_nuer_keyboard_follow_the_following_tutorial_to_activate_the_keyboard">Hi, thanks for donwloading Junub keyboard. follow the following tutorial to activate the keyboard.</string>
+    <string name="tutorial_tittle">Tutorial</string>
+    <string name="share_the_app_with_your_friends_and_family_happy_communcating">Share the app with your friends and family. Happy communcating.</string>
+    <string name="back">Back</string>
+    <string name="title_activity_splash_screen">Splash_screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="nuer_keyboard">Junub Keyboard</string>
+    <string name="textview">DhielSoft : All Rights reserved</string>
+    <string name="jk_notice">Welcome to Junub keyboard. let\'s activate the keyboard</string>
+    <string name="step_1">Step 1</string>
+    <string name="settings_name">Settings</string>
+    <string name="language_selection_title">Select Language</string>
+    <string name="select_language">Languages</string>
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
+    <string name="step_2">Step 2</string>
+    <string name="notice">Select Junub Keyboard to start enjoying</string>
+    <string name="www_dhielss_com">www.dhielss.com</string>
+    <string name="select_junub_keyboard">Select Junub Keyboard</string>
+    <string name="finish">Finish</string>
+    <string name="enable_junub_keyboard">Enable Junub Keyboard</string>
+</resources>
